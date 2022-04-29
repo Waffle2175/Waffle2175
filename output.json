@@ -1,9 +1,23 @@
 {
-   "name": "Zelda titles",
-   "author": "Waffle2175",
-   "nes": {
-      "name": "Oracle of seasons ",
-      "icon": "http://skitty.xyz/aurora/go/assets/img/games/nes/tetris.png",
+  "name": "Waffle2175",
+  "author": "Waffle2175",
+  "gbc": [
+    {
+      "name": "Zelda oracle of seasons",
+      "icon": "https://share.icloud.com/photos/00breqnbEYCvc7ERfvTHkoeng",
       "link": "https://www.icloud.com/iclouddrive/05a1xfn66ash4Zq5x2DxviTig"
-   }
+    },
+    {
+      "name": "Pk yellow",
+      "icon": "https://share.icloud.com/photos/075_bPF0kWzcDxvZzqyLEP3qg",
+      "link": "https://www.icloud.com/iclouddrive/0e66-wNqrU29lCqmY894nv15g"
+    }
+  ],
+  "gbc": [
+    {
+      "name": "Oracle of Ages",
+      "icon": "https://share.icloud.com/photos/0d21UerYbTykkje4EBNmTbKGA",
+      "link": "https://www.icloud.com/iclouddrive/05a1xfn66ash4Zq5x2DxviTig"
+    }
+  ]
 }
