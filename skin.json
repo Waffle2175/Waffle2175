@@ -1,9 +1,9 @@
 {
-  "name": "Skin Name",
-  "description": "Briefly describe the skin.",
-  "preview": "https://example.com/preview.png",
-  "logo": "https://example.com/icon.png",
-  "author": "Author Name",
+  "name": "Pikachu",
+  "description": "Literally just pikachu.",
+  "preview": "https://share.icloud.com/photos/047ikipt2pQEb90BZycJGXqWA",
+  "logo": "https://share.icloud.com/photos/047ikipt2pQEb90BZycJGXqWA",
+  "author": "YEETSTREET",
   "styles": [
     {
       "header": "background-color:red; color:white;",
